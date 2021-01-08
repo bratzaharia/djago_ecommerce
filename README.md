@@ -6,13 +6,21 @@ Only the paying card save part is missing (the last part of the tutorial). For t
 a lot of time on the stackoverflow a.o. Enjoy!
 
 -- python -m venv venv
+
 -- venv/scripts/activate (windows)
+
 -- git clone --recursive https://github.com/bratzaharia/django_ecommerce
+
 -- pip install -r requirements.txt
+
 -- python manage.py makemigrations
+
 -- python manage.py migrate
+
 -- python manage.py createsuperuser
+
 -- python manage.py runserver
+
 -- enjoy!
 
 * All images of the project are under copyright!!!
