@@ -15,4 +15,4 @@ a lot of time on the stackoverflow a.o. Enjoy!
 -- python manage.py runserver
 -- enjoy!
 
-** All images of the project are under copyright!!!
+* All images of the project are under copyright!!!
